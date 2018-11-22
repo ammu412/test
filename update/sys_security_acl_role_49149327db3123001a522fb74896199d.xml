@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-22 06:51:21</sys_created_on>
+        <sys_id>49149327db3123001a522fb74896199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_295409_needit_needit.x_295409_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_295409_needit">519157a3db3123001a522fb7489619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">519157a3db3123001a522fb7489619b3</sys_scope>
+        <sys_security_acl display_value="x_295409_needit_needit">01149327db3123001a522fb74896199b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_49149327db3123001a522fb74896199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-22 06:51:21</sys_updated_on>
+        <sys_user_role display_value="x_295409_needit.needit_user" name="x_295409_needit.needit_user">09149ba3db3123001a522fb7489619c4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
